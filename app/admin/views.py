@@ -32,7 +32,7 @@ def new_blog():
         description = form.description.data
         blog = form.blog.data
 
-        new_blog = Blog(blog=blog, title=title, description=description)
+        new_blog = Blog(blog=blog, title=title, description = description)
 
         new_blog.save_blog()
 
