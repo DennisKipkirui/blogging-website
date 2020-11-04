@@ -1,9 +1,9 @@
 # blogging-website
-# MARITIME  BLOG
+# AWESOME  BLOG
 ## Published At
 * Date 02/11/2020
 ## Description
-Maritime blog is a personal blogging website where you can create and share your opinions and other users can read and comment on them. The blog also has random quotes that inspire the users.
+Awesome blog is a personal blogging website where you can create and share your opinions and other users can read and comment on them. The blog also has random quotes that inspire the users.
 ## Author
  * Dennis Mutai
 ## Features
