@@ -1,6 +1,6 @@
 # blogging-website
 # AWESOME  BLOG
-## Published At
+## Published on
 * Date 02/11/2020
 ## Description
 Awesome blog is a personal blogging website where you can create and share your opinions and other users can read and comment on them. The blog also has random quotes that inspire the users.
